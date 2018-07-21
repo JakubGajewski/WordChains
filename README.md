@@ -1,5 +1,4 @@
 # WordChains
-Word Chain kata Spring Boot application
 
 My solution to Word Chains kata:
 http://codekata.com/kata/kata19-word-chains/
