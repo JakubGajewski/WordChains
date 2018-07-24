@@ -8,7 +8,7 @@ can be changed, and all the word chain's word should be in the dictionary.
 
 Technologies: Java8, Spring Boot, JUnit, Lombok, Thymeleaf, HTML5, CSS, Bootstrap
 Design patterns: MVC, Dependency Injection
-Alghorithms: graph theory, breadth-first serach, Dijkstra algorithm
+Alghorithms: graph theory, breadth-first serach, Dijkstra's algorithm
 
 Example results:
 - for words "java" and "test": java tava tala tela telt test
