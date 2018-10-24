@@ -16,4 +16,4 @@ Note - the program first creates all nodes and edges in the graph, then uses alg
 It works infallibly, however it would be nice to improve it's speed, if you enter two long words. That's my aim for the future.
 
 TODO:
-- in prior to have faster response time - run separate thread, which in the background will create all the edges, and save that result to be used for every user's question
+- in order to have quicker response time - run separate thread, which in the background will create all the edges, and save that result to be used for every user's question
