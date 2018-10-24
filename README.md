@@ -14,3 +14,6 @@ Alghorithms: graph theory, breadth-first serach, Dijkstra's algorithm
 
 Note - the program first creates all nodes and edges in the graph, then uses algorithm to find the shortest (or only possible) connection.
 It works infallibly, however it would be nice to improve it's speed, if you enter two long words. That's my aim for the future.
+
+TODO:
+- in prior to have faster response time - run separate thread, which in the background will create all the edges, and save that result to be used for every user's question
